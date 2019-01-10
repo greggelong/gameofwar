@@ -1,5 +1,6 @@
 ## this version during a war each table 3 extra cards and there is a check to see if there is enought
 ## added a global variable warwin 
+## addign a comment to playwar 3
 
 from cdh import Hand,Deck
 
